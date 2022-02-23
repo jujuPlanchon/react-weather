@@ -69,7 +69,16 @@ export default function Weather() {
           </div>
         </div>
         <SearchEngine />
-        <p>Open Source at </p>
+        <p>
+          Open Source at{" "}
+          <a
+            href="https://https://github.com/jujuPlanchon/react-weather"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Julia's GitHub
+          </a>
+        </p>
       </div>
     </div>
   );
